@@ -1,0 +1,9 @@
+{
+  "version": "1.0.4",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/paidproUpdateApp/releases/download/v1.0.4/app-release.apk",
+  "changelog": [
+    "Update list Store and detail store"
+  ]
+}
