@@ -1,0 +1,9 @@
+{
+  "version": "1.0.7",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/paidproUpdateApp/releases/download/v1.0.7/app-release.apk",
+  "changelog": [
+    "Update fix bug upload foto"
+  ]
+}
